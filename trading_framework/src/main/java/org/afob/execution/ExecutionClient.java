@@ -28,9 +28,6 @@ public final class ExecutionClient {
             super(message);
         }
 
-        public ExecutionException(String message, Throwable cause) {
-            super(message, cause);
-        }
     }
 
 }
